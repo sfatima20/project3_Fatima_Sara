@@ -1,0 +1,20 @@
+Knapsack Problem Solution - Following Foundations of Algorithms
+Capacity: 50
+
+Available Items:
+  Gold (w:10, p:60)
+  Silver (w:20, p:100)
+  Bronze (w:30, p:120)
+  Platinum (w:25, p:200)
+  Diamond (w:5, p:150)
+  Ruby (w:15, p:75)
+  Emerald (w:12, p:80)
+  Sapphire (w:8, p:95)
+
+Solution:
+Maximum Profit: 525
+Items Selected: 4
+  Sapphire (w:8, p:95)
+  Emerald (w:12, p:80)
+  Diamond (w:5, p:150)
+  Platinum (w:25, p:200)

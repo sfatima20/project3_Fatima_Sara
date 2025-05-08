@@ -1,0 +1,9 @@
+50
+Gold 10 60
+Silver 20 100
+Bronze 30 120
+Platinum 25 200
+Diamond 5 150
+Ruby 15 75
+Emerald 12 80
+Sapphire 8 95
